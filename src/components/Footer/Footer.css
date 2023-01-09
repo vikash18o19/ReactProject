@@ -1,0 +1,12 @@
+.footer-bar{
+    background-color: rgb(56, 55, 55);
+    display: fixed;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    position: relative;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    color: azure;
+}
